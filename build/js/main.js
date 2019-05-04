@@ -1,0 +1,6 @@
+console.log("js work");
+console.log("js work");
+console.log("js work");
+console.log("js work");
+console.log("js work");
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBIiwiZmlsZSI6Im1haW4uanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zb2xlLmxvZyhcImpzIHdvcmtcIik7XHJcbmNvbnNvbGUubG9nKFwianMgd29ya1wiKTtcclxuY29uc29sZS5sb2coXCJqcyB3b3JrXCIpO1xyXG5jb25zb2xlLmxvZyhcImpzIHdvcmtcIik7XHJcbmNvbnNvbGUubG9nKFwianMgd29ya1wiKTtcclxuIl19
